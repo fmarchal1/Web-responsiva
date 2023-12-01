@@ -8,7 +8,7 @@ La estructura del proyecto está organizada de la siguiente manera:
 
 - **B2 Pagina Web Responsive/**
   - **HTML/**: Contiene los archivos HTML de la página web.
-    - [index.html](./HTML/index.html): Página de inicio.
+    - [index.html](./html/index.html): Página de inicio.
     - [proyectos.html](./HTML/proyectos.html): Página de proyectos.
     - [equipo.html](./HTML/equipo.html): Página de equipo.
     - [contacto.html](./HTML/contacto.html): Página de contacto.
