@@ -9,16 +9,16 @@ La estructura del proyecto está organizada de la siguiente manera:
 - **B2 Pagina Web Responsive/**
   - **HTML/**: Contiene los archivos HTML de la página web.
     - [index.html](./html/index.html): Página de inicio.
-    - [proyectos.html](./HTML/proyectos.html): Página de proyectos.
-    - [equipo.html](./HTML/equipo.html): Página de equipo.
-    - [contacto.html](./HTML/contacto.html): Página de contacto.
+    - [proyectos.html](./html/proyectos.html): Página de proyectos.
+    - [equipo.html](./html/equipo.html): Página de equipo.
+    - [contacto.html](./html/contacto.html): Página de contacto.
   - **css/**: Contiene los archivos CSS para estilos.
     - [styles.css](./css/styles.css): Hoja de estilos principal.
   - **multimedia/**: Almacena imágenes y otros archivos multimedia.
     - [logo.png](./multimedia/logo.png): Logo de la empresa.
   - **Proyectos/**: Contiene subcarpetas con detalles de cada proyecto.
-    - [proyecto1.html](./Proyectos/proyecto1.html): Detalles del Proyecto Residencial "Vista Serena".
-    - [proyecto2.html](./Proyectos/proyecto2.html): Detalles del Proyecto Comercial "Centro Urbano".
+    - [proyecto1.html](./html/Proyectos/proyecto1.html): Detalles del Proyecto Residencial "Vista Serena".
+    - [proyecto2.html](./html/Proyectos/proyecto2.html): Detalles del Proyecto Comercial "Centro Urbano".
 
 ## Tecnologías Utilizadas
 
@@ -40,9 +40,9 @@ En el desarrollo de esta página web, se han utilizado las siguientes tecnologí
 
 Se han agregado capturas de pantalla relevantes en la carpeta "Capturas" que ilustran diferentes secciones de la página web.
 
-- [Captura de Pantalla 1](./Capturas/Captura1.png)
-- [Captura de Pantalla 2](./Capturas/Captura2.png)
-- [Captura de Pantalla 3](./Capturas/Captura3.png)
+- [Captura de Pantalla 1](./capturas/Captura1.png)
+- [Captura de Pantalla 2](./capturas/Captura2.png)
+- [Captura de Pantalla 3](./capturas/Captura3.png)
 
 ---
 
