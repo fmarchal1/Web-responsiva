@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/styles.css">
+    <title>Contacto</title>
+</head>
+
+<body>
+
+    <header>
+        <div id="logo">
+            <a href="/html/index.html"> <img src="/multimedia/logo.png" alt="Logo de la Empresa"> </a>
+        </div>
+        <h1>Contacto</h1>
+        <nav>
+            <ul>
+                <li><a href="/html/index.html">Inicio</a></li>
+                <li><a href="/html/proyectos.html">Proyectos</a></li>
+                <li><a href="/html/equipo.html">Equipo</a></li>
+                <li><a href="/html/contacto.html">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="formulario-contacto">
+            <h2>¿Tiene alguna pregunta? ¡Contáctenos!</h2>
+            <form action="#" method="post" id="contactForm">
+                <label for="nombre">Nombre:</label>
+                <input type="text" id="nombre" name="nombre" required>
+
+                <label for="email">Correo Electrónico:</label>
+                <input type="email" id="email" name="email" required>
+
+                <label for="asunto">Asunto:</label>
+                <input type="text" id="asunto" name="asunto" required>
+
+                <label for="mensaje">Mensaje:</label>
+                <textarea id="mensaje" name="mensaje" rows="4" required></textarea>
+
+                <button type="submit">Enviar Mensaje</button>
+            </form>
+            <p>Puede contactarnos por correo electrónico: <a
+                    href="mailto:info@empresaarquitectura.com">info@empresaarquitectura.com</a></p>
+        </section>
+
+        <!-- Otras secciones y detalles específicos del formulario pueden ir aquí -->
+
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Empresa de Arquitectura. Todos los derechos reservados.</p>
+    </footer>
+
+</body>
+
+</html>
